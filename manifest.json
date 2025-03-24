@@ -1,0 +1,11 @@
+{
+	"id": "double-row-toolbar",
+	"name": "Double row toolbar",
+	"version": "1.0.0",
+	"minAppVersion": "1.8.4",
+	"description": "Adds a second row to the Obsidian toolbar on mobile devices, allowing for more quick access buttons.",
+	"author": "Lorens Osman",
+	"authorUrl": "https://twitter.com/lorans_othman",
+	"fundingUrl": "https://www.buymeacoffee.com/lorens",
+	"isDesktopOnly": false
+}
