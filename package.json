@@ -1,7 +1,7 @@
 {
 	"name": "double-row-toolbar",
 	"version": "1.0.0",
-	"description": "Adds a second row to the Obsidian toolbar on mobile devices, allowing for more quick access buttons.",
+	"description": "Adds a second row to the toolbar on mobile devices, allowing for more quick access buttons.",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
