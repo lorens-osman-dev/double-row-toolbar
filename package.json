@@ -1,6 +1,6 @@
 {
 	"name": "double-row-toolbar",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Adds a second row to the toolbar on mobile devices, allowing for more quick access buttons.",
 	"main": "main.js",
 	"scripts": {
@@ -21,6 +21,7 @@
 		"esbuild": "0.17.3",
 		"obsidian": "latest",
 		"tslib": "2.4.0",
+		"tsx": "^4.21.0",
 		"typescript": "4.7.4"
 	}
 }
