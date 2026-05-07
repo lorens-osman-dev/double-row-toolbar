@@ -1,6 +1,6 @@
 {
 	"name": "double-row-toolbar",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "Adds a second row to the toolbar on mobile devices, allowing for more quick access buttons.",
 	"main": "main.js",
 	"scripts": {
