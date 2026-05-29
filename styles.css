@@ -3,8 +3,8 @@
         height: 100%;
         .mobile-toolbar-options-list-container {
             border-radius: 5px;
-            /* The TS code above will override the 25px fallback */
-            bottom: var(--double_row_mobile_toolbar_bottom_offset, 25px);
+            bottom: 0;
+            margin-bottom: env(safe-area-inset-bottom, 0);
             position: relative;
             height: 70px;
 
